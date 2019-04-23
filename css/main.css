@@ -113,7 +113,8 @@ div.content-right {
 }
 div.content-full {
 	clear: both;
-	padding-top: 15px;
+/* 	padding-top: 15px; */
+	padding-top: 0px;
 }
 p.end-story-links {
 	border-bottom: 4px solid #d1b9b3;
