@@ -57,10 +57,13 @@ div#content-wrapper {
 	text-align: left;
 }
 div#logo {
-	background: url(../images/logo-box-bkg.gif) no-repeat;
-	width: 194px;
-	height: 225px;
-	margin-top: 4px;
+/* 	background: url(../images/logo-box-bkg.gif) no-repeat; */
+/*	width: 194px;
+	height: 225px;*/
+	width: 220px;
+	height: 305px;
+/* 	margin-top: 4px; */
+	margin-top: -14px;
 	text-align: center;
 }
 div#logo img {
