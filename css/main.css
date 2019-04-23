@@ -44,10 +44,11 @@ body {
 /* @group Layout */
 div#outer-wrapper {
 	background: url(../images/body-bkg.gif) repeat-y top center;
-	
 }
 div#inner-wrapper {
 	background: url(../images/header-bkg.gif) repeat-x;
+	background-size: 14px;
+/* 	height: 500px; */
 }
 div#content-wrapper {
 	width: 1000px;
