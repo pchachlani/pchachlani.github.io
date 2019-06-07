@@ -84,7 +84,7 @@ div#content {
 	float: right;
 	width: 730px;
 	/*height entered if too little content*/
-	height: 930px;
+/* 	height: 930px; */
 	margin-right: 30px;
 	display: inline;
 }
